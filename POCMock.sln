@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCMock", "POCMock.csproj", "{A9F3EB95-4FDA-4820-90C7-B96D982264CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCMockTestProject", "..\POCMockTestProject\POCMockTestProject.csproj", "{8428B12B-4877-4823-8149-6109109E2950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9F3EB95-4FDA-4820-90C7-B96D982264CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F3EB95-4FDA-4820-90C7-B96D982264CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F3EB95-4FDA-4820-90C7-B96D982264CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F3EB95-4FDA-4820-90C7-B96D982264CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8428B12B-4877-4823-8149-6109109E2950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8428B12B-4877-4823-8149-6109109E2950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8428B12B-4877-4823-8149-6109109E2950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8428B12B-4877-4823-8149-6109109E2950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7336E60C-C825-455F-A5EC-ACC36A500A98}
+	EndGlobalSection
+EndGlobal
